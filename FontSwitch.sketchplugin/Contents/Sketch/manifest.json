@@ -1,0 +1,169 @@
+{
+  "name": "Font Switch",
+  "description": "Quickly change fonts from a pre-set font list.",
+  "author": "Dylan Kilgore",
+  "homepage": "",
+  "version": 1.0,
+  "identifier": "com.example.sketch.font-change",
+  "updateURL": "",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "1. Segoe UI Normal",
+      "identifier": "font1",
+      "shortcut": "shift ctrl 1",
+      "script": "script.js",
+      "handler": "font1"
+    },
+    {
+      "name": "2. Segoe UI Light",
+      "identifier": "font2",
+      "shortcut": "shift ctrl 2",
+      "script": "script.js",
+      "handler": "font2"
+    },
+    {
+      "name": "3. Segoe UI Semilight",
+      "identifier": "font3",
+      "shortcut": "shift ctrl 3",
+      "script": "script.js",
+      "handler": "font3"
+    },
+    {
+      "name": "4. Segoe UI Semibold",
+      "identifier": "font4",
+      "shortcut": "shift ctrl 4",
+      "script": "script.js",
+      "handler": "font4"
+    },
+    {
+      "name": "5. Segoe UI Negreta",
+      "identifier": "font5",
+      "shortcut": "shift ctrl 5",
+      "script": "script.js",
+      "handler": "font5"
+    },
+    {
+      "name": "6. Full MDL2 Assets",
+      "identifier": "font6",
+      "shortcut": "shift ctrl 6",
+      "script": "script.js",
+      "handler": "font6"
+    },
+    {
+      "name": "7. SF UI Text Regular",
+      "identifier": "font7",
+      "shortcut": "shift ctrl 7",
+      "script": "script.js",
+      "handler": "font7"
+    },
+    {
+      "name": "8. SF UI Text Medium",
+      "identifier": "font8",
+      "shortcut": "shift ctrl 8",
+      "script": "script.js",
+      "handler": "font8"
+    },
+    {
+      "name": "9. SF UI Text Light",
+      "identifier": "font9",
+      "shortcut": "shift ctrl 9",
+      "script": "script.js",
+      "handler": "font9"
+    },
+    {
+      "name": "10. SF UI Text Semibold",
+      "identifier": "font10",
+      "shortcut": "shift fn 0",
+      "script": "script.js",
+      "handler": "font10"
+    },
+    {
+      "name": "11. SF UI Text Bold",
+      "identifier": "font11",
+      "shortcut": "shift fn 1",
+      "script": "script.js",
+      "handler": "font11"
+    },
+    {
+      "name": "12. SF UI Text Heavy",
+      "identifier": "font12",
+      "shortcut": "shift fn 2",
+      "script": "script.js",
+      "handler": "font12"
+    },
+    {
+      "name": "13. Roboto Regular",
+      "identifier": "font13",
+      "shortcut": "shift fn 3",
+      "script": "script.js",
+      "handler": "font13"
+    },
+    {
+      "name": "14. Roboto Medium",
+      "identifier": "font14",
+      "shortcut": "shift fn 4",
+      "script": "script.js",
+      "handler": "font14"
+    },
+    {
+      "name": "15. Roboto Light",
+      "identifier": "font15",
+      "shortcut": "shift fn 5",
+      "script": "script.js",
+      "handler": "font15"
+    },
+    {
+      "name": "16. Roboto Thin",
+      "identifier": "font16",
+      "shortcut": "shift fn 6",
+      "script": "script.js",
+      "handler": "font16"
+    },
+    {
+      "name": "17. Roboto Bold",
+      "identifier": "font17",
+      "shortcut": "shift fn 7",
+      "script": "script.js",
+      "handler": "font17"
+    },
+    {
+      "name": "18. Roboto Black",
+      "identifier": "font18",
+      "shortcut": "shift fn 8",
+      "script": "script.js",
+      "handler": "font18"
+    },
+    {
+      "name": "View All Font Shortcuts",
+      "identifier": "shortcuts",
+      "shortcut": "shift cmd 0",
+      "script": "script.js",
+      "handler": "legend"
+    }
+  ],
+  "menu": {
+    "items": [
+      "font1",
+      "font2",
+      "font3",
+      "font4",
+      "font5",
+      "font6",
+      "font7",
+      "font8",
+      "font9",
+      "font10",
+      "font11",
+      "font12",
+      "font13",
+      "font14",
+      "font15",
+      "font16",
+      "font17",
+      "font18",
+      "shortcuts"
+    ]
+  }
+}

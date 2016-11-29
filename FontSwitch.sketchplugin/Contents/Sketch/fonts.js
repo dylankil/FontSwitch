@@ -1,0 +1,20 @@
+var fontList = {
+    f1 :  'Segoe UI',
+    f2 :  'Segoe UI Light',
+    f3 :  'Segoe UI Semilight',
+    f4 :  'Segoe UI Semibold',
+    f5 :  'Segoe UI Negreta',
+    f6 :  'Full MDL2 Assets',
+    f7 :  'SF UI Text Regular',
+    f8 :  'SF UI Text Medium',
+    f9 :  'SF UI Text Light',
+    f10 : 'SF UI Text Semibold',
+    f11 : 'SF UI Text Bold',
+    f12 : 'SF UI Text Heavy',
+    f13 : 'Roboto',
+    f14 : 'Roboto Medium',
+    f15 : 'Roboto Light',
+    f16 : 'Roboto Thin',
+    f17 : 'Roboto Bold',
+    f18 : 'Roboto-Black'
+};
